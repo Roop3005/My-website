@@ -69,13 +69,5 @@ body, html {
 @media (max-width: 600px) {
   .card {
     width: 80%;
-    height: auto;
-    transform: none;
-  }
-
-  .card:hover,
-  .card.hovered {
-    height: auto;
-    transform: none;
   }
 }
